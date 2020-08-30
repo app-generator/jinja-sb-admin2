@@ -1,36 +1,41 @@
 {% extends "layouts/base-fullscreen.html" %}
 
-{% block title %} Error 500 {% endblock %} 
+{% block title %} Login {% endblock %} 
 
 <!-- Specific Page CSS goes HERE  -->
 {% block stylesheets %}{% endblock stylesheets %}
 
 {% block content %}
 
-    <!-- Section -->
-    <section class="min-vh-100 d-flex align-items-center bg-soft">
-        <div class="container">
-            <div class="row justify-content-center">
-                <div class="col-12 d-flex align-items-center justify-content-center">
-                    <div class="signin-inner mt-3 mt-lg-0 bg-white shadow-soft border rounded border-light p-4 p-lg-5 w-100 fmxw-500">
-                        <div class="text-center text-md-center mb-4 mt-md-0">
-                            <h1 class="mb-0 h3">
-                              Error 500
-                            </h1>
-                            <br />
-                            <span class="font-weight-normal">
-                                Server error - please contact support.
-                            </span>                            
-                        </div>
-                        
-                        <form action="#" class="mt-4">
-                            <a href="/" class="btn btn-block btn-primary">Home</a>
-                        </form>
+    <!-- Outer Row -->
+    <div class="row justify-content-center">
+
+      <div class="col-xl-10 col-lg-12 col-md-9">
+
+        <div class="card o-hidden border-0 shadow-lg my-5">
+          <div class="card-body p-0">
+            <!-- Nested Row within Card Body -->
+            <div class="row">
+              <div class="col-lg-12">
+
+                <div class="text-center">
+                    <div class="error mx-auto" data-text="500">
+                        &nbsp;
                     </div>
+                    <p class="lead text-gray-800 mb-5">Page Not Found</p>
+                    <p class="text-gray-500 mb-0">It looks like you found a glitch in the matrix...</p>
+                    <a href="index.html">&larr; Back to Dashboard</a>
                 </div>
+
+                <br />
+              </div>
             </div>
+          </div>
         </div>
-    </section>
+
+      </div>
+
+    </div>
 
 {% endblock content %}
 

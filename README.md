@@ -1,8 +1,8 @@
-# [Jinja Template](https://github.com/app-generator/jinja-template)
+# [Jinja Template - Sb Admin 2](https://jinja-template-sb-admin-2.appseed.us/)
 
 > Template Theme provided by [AppSeed](https://appseed.us) - Features:
 
-- UI Kit: **Neumorphism UI** (Free Version) by **Themesberg**
+- UI Kit: **Sb Admin 2** (Free Version) by **StartBootstrap**
 - Render Engine: Flask / [Jinja2](https://jinja.palletsprojects.com/)
 - **[MIT License](https://github.com/app-generator/license-mit)**
 - Free support via **Github** issues tracker
@@ -10,19 +10,17 @@
 
 > Links
 
-- [LIVE Demo](https://theme-jinja2.appseed.us/) - starter in action
-- [Jinja Template](https://github.com/app-generator/jinja-template) - A curated list with Jinja projects that use this template
+- [Jinja Template - Sb Admin 2](https://jinja-template-sb-admin-2.appseed.us/) - LIVE Demo
 
 <br />
 
-## UI Kit - [Neumorphism UI](https://themesberg.com/product/ui-kits/neumorphism-ui-kit-bootstrap)
+## UI Kit - Sb Admin 2
 
-*Vendor Notes* - Start developing neumorphism (aka. neomorphism) inspired layouts, web apps and pages with this free UI Kit. It features over 200 individual components and 5 example pages. Neumorphism UI makes use of the original neumorphism design specs.
-All components are perfectly in compliance with the neumorphism design trend making use of the specific shadow and coloring attributes. Neumorphism UI also comes with the shadow inset style add-on. Only some neumorphic components that are included are timelines, profile cards, pricing cards, call to action sections and many more.
+*Vendor Notes* - Sb Admin 2 is a free, open-source, MIT licensed Bootstrap admin template. This template uses the default Bootstrap 4 styles along with a variety of plugins to create a powerful framework for creating admin panels, web apps, or dashboard UI's for your next project.
 
 <br />
 
-![Jinja Template - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/theme-jinja2/master/media/theme-jinja2-screen.png)
+![Jinja Template - Sb Admin 2 - Starter provided by AppSeed.](https://raw.githubusercontent.com/app-generator/jinja-template-sb-admin-2/master/media/jinja-template-sb-admin-2-screen.png)
 
 <br />
 
@@ -30,8 +28,8 @@ All components are perfectly in compliance with the neumorphism design trend mak
 
 ```bash
 $ # Clone the sources
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-template-sb-admin-2.git
+$ cd jinja-template-sb-admin-2
 $
 $ # Virtualenv modules installation (Unix based systems)
 $ virtualenv env
@@ -54,7 +52,7 @@ $ # (Unix/Mac) export FLASK_ENV=development
 $ # (Windows) set FLASK_ENV=development
 $ # (Powershell) $env:FLASK_ENV = "development"
 $
-$ # Run the Jinja Template
+$ # Run the Jinja Template - Sb Admin 2
 $ # --host=0.0.0.0 - expose the app on all network interfaces (default 127.0.0.1)
 $ # --port=5000    - specify the app port (default 5000)  
 $ flask run --host=0.0.0.0 --port=5000
@@ -120,8 +118,8 @@ The steps to start the template using Docker:
 > Get the code
 
 ```bash
-$ git clone https://github.com/app-generator/theme-jinja2.git
-$ cd theme-jinja2
+$ git clone https://github.com/app-generator/jinja-template-sb-admin-2.git
+$ cd jinja-template-sb-admin-2
 ```
 
 > Start the app in Docker
@@ -183,4 +181,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Jinja Template](https://theme-jinja2.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Jinja Template - Sb Admin 2](https://jinja-template-sb-admin-2.appseed.us/) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
