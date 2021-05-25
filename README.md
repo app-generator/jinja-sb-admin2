@@ -4,6 +4,14 @@
 
 <br />
 
+### DEPRECATED: For the latest version of Sb Admin processed by AppSeed please access:
+
+- [Jinja SB Admin](https://github.com/app-generator/jinja-sb-admin) - free product
+- [Flask SB Admin](https://appseed.us/admin-dashboards/flask-dashboard-sb-admin) - free product
+- [Django SB Admin](https://appseed.us/admin-dashboards/django-dashboard-sb-admin) - free product
+
+<br />
+
 > Features:
 
 - UI Kit: **Sb Admin 2** (Free Version) by **StartBootstrap**
